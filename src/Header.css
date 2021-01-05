@@ -1,0 +1,79 @@
+.app{
+    display: flex;
+    padding: 15px 20px;
+    justify-content: space-between;
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    top: 0;
+    box-shadow: 0px  5px 8px -9px rgba(0,0,0,0.75);
+}
+.app_left{
+    display: flex;
+    justify-content: space-between;
+
+}
+.app_format{
+    display: flex;
+    align-items: center;
+    background-color: #eff2f5;
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 999px;
+
+}
+.app_format >input{
+    border: none;
+    background-color: transparent;
+    outline-width: 0;
+}
+.app_left >img{
+    height: 40px;
+}
+.app_middle{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+
+}
+.app_mid > .MuiSvgIcon-root{
+    color: gray;
+
+}
+.app_mid:hover > .MuiSvgIcon-root
+{
+    color: blue;
+}
+.app_mid{
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    cursor: pointer;
+}
+.app_mid:hover{
+    background-color: #eff2f5;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0 30px;
+    border-bottom: none;
+}
+.app_active > .MuiSvgIcon-root
+{
+   color: #2e81f4;
+
+}
+.app_active{
+    border-bottom: 4px solid #2e81f4;
+}
+.app_info{
+    display: flex;
+    align-items: center;
+
+}
+.app_info>h4{
+    margin-left: 10px;
+}
+.app_right{
+    display: flex;
+
+}
