@@ -1,15 +1,14 @@
-# Amazon
-### [Live Site](https://amazonclonez.herokuapp.com/)
+# Facebook
 
-![Amazon](https://i.ibb.co/V9MPvS5/Capture12.png)
-![Amazon](https://i.ibb.co/FxHs4QW/Capture11.png)
+![Amazon](https://i.ibb.co/qxgs2pk/facebook.png)
+![Amazon](https://i.ibb.co/tLxdsBp/face.png)
 
 ## Introduction
-This is a code repository for the corresponding Amazon . 
+This is a code repository for the corresponding Facebook . 
 
-In this repository, we're going to build a fully functional amazon application using reactjs. 
+In this repository, we're going to build a fully functional facebook application using reactjs. 
 
-While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebase authincation API fetching with axios and many more.
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebase authincation and firebase database and many more.
 
 
 # Getting Started with Create React App
