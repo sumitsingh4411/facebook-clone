@@ -1,3 +1,17 @@
+# Amazon
+### [Live Site](https://amazonclonez.herokuapp.com/)
+
+![Amazon](https://i.ibb.co/V9MPvS5/Capture12.png)
+![Amazon](https://i.ibb.co/FxHs4QW/Capture11.png)
+
+## Introduction
+This is a code repository for the corresponding Amazon . 
+
+In this repository, we're going to build a fully functional amazon application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebase authincation API fetching with axios and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
